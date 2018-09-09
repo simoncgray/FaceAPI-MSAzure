@@ -1,4 +1,4 @@
-subscription_key = '65733df168e2404583e373ba1df91165''
+subscription_key = {insert key}
 assert subscription_key
 
 face_api_url = 'https://uksouth.api.cognitive.microsoft.com/face/v1.0/detect'
